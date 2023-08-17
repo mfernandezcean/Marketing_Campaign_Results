@@ -15,33 +15,51 @@ FROM
 WHERE 
   Income IS NULL;
 ```
-Using Union to check for other Null Values: 
+Using **Union** to check for other Null Values: 
 ```
 
 
-SELECT ID AS TableName, *
-FROM marketing_data
-WHERE ID IS NULL
-UNION ALL
-SELECT Income AS TableName, *
-FROM marketing_data
-WHERE Income IS NULL
-UNION
-SELECT [Marital_Status] AS TableName, *
-FROM marketing_data
-WHERE [Marital_Status] IS NULL
-UNION
-SELECT [Country] AS TableName, *
-FROM marketing_data
-WHERE [Country] IS NULL
+SELECT 
+  ID AS TableName, 
+  * 
+FROM 
+  marketing_data 
+WHERE 
+  ID IS NULL 
+UNION ALL 
+SELECT 
+  Income AS TableName, 
+  * 
+FROM 
+  marketing_data 
+WHERE 
+  Income IS NULL 
+UNION 
+SELECT 
+  [Marital_Status] AS TableName, 
+  * 
+FROM 
+  marketing_data 
+WHERE 
+  [Marital_Status] IS NULL 
+UNION 
+SELECT 
+  [Country] AS TableName, 
+  * 
+FROM 
+  marketing_data 
+WHERE 
+  [Country] IS NULL
+
 ```
 - After Checking the Table, the Null values we've got are the 24 rows of [Income]
+- Whe calculate the Average Income Per Education Category, with the goal of replace ths Nulls values.
 ```
 SELECT 
 [Education],
 AVG(INCOME) AS avg_income
 FROM marketing_data
-GROUP BY [Education]
+GROUP BY [Education] -- 
 
 SELECT AVG(income) AVGofincome
 FROM marketing_data;
@@ -61,32 +79,10 @@ SELECT
     END AS INCOME 
 FROM marketing_data
 WHERE Income IS NULL 
-)
-
-SELECT -- ID,
-Marital_Status,
-AVG(INCOME)
-FROM marketing_data
-GROUP BY Marital_Status 
-
-SELECT Marital_Status, COUNT(ID) as count_
-FROM marketing_data
-GROUP BY Marital_Status;
-
-
-SELECT Education, COUNT(ID) as count_
-FROM marketing_data
-GROUP BY Education
-ORDER BY 1 ASC; 
-
-SELECT Education, Income
-FROM marketing_data
-WHERE Income IS NOT NULL 
-ORDER BY Income ASC
- 
+) 
 ```
 
--- Outliers
+### Outliers
 ```
 SELECT 
 ID,
