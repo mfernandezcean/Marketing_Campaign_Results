@@ -35,7 +35,7 @@ SELECT [Country] AS TableName, *
 FROM marketing_data
 WHERE [Country] IS NULL
 ```
-
+- After Checking the Table, the Null values we've got are the 24 rows of [Income]
 ```
 SELECT 
 [Education],
@@ -84,10 +84,10 @@ FROM marketing_data
 WHERE Income IS NOT NULL 
 ORDER BY Income ASC
  
-
+```
 
 -- Outliers
-
+```
 SELECT 
 ID,
 Education,
