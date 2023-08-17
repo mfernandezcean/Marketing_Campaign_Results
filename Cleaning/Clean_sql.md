@@ -1,21 +1,23 @@
 
-
+First me check the whole table:
 
 ```
 SELECT *
 FROM marketing_data
-
--- Nulls:
-
+```
+### Nulls:
+```
 SELECT 
-Education,
-Income
-FROM marketing_data
+  Education, 
+  Income 
+FROM 
+  marketing_data 
 WHERE 
-	Income IS NULL; -- dont see more NULL values 
+  Income IS NULL;
+```
+Using Union to check for other Null Values: 
+```
 
-
---Using chatgpt:
 
 SELECT ID AS TableName, *
 FROM marketing_data
@@ -32,9 +34,9 @@ UNION
 SELECT [Country] AS TableName, *
 FROM marketing_data
 WHERE [Country] IS NULL
+```
 
--- etc 
-
+```
 SELECT 
 [Education],
 AVG(INCOME) AS avg_income
