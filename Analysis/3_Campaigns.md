@@ -21,7 +21,7 @@ Checking the total of Customers and How many said 'Yes' to every campaing:
 SELECT 
   COUNT(ID) 
 FROM 
-  marketing_data -- 2237
+  marketing_data; -- 2237
 
 ```
 Campaign 1:
@@ -33,12 +33,14 @@ FROM
   marketing_data 
 WHERE 
   AcceptedCmp1 = 1 --143
+;
+
 SELECT 
   COUNT(ID) as NOSucces1 
 FROM 
   marketing_data 
 WHERE 
-  AcceptedCmp1 = 0 --2094
+  AcceptedCmp1 = 0; --2094
 
 ```
 Campaign 2:
@@ -49,7 +51,7 @@ SELECT
 FROM 
   marketing_data 
 WHERE 
-  AcceptedCmp2 = 1 -- 30
+  AcceptedCmp2 = 1 ;-- 30
 
 ```
 Campaign 3:
@@ -60,7 +62,7 @@ SELECT
 FROM 
   marketing_data 
 WHERE 
-  AcceptedCmp3 = 1 -- 163
+  AcceptedCmp3 = 1; -- 163
 
 ```
 Campaign 4:
@@ -71,7 +73,7 @@ SELECT
 FROM 
   marketing_data 
 WHERE 
-  AcceptedCmp4 = 1 --167
+  AcceptedCmp4 = 1; --167
 
 ```
 Campaign 5:
@@ -82,7 +84,7 @@ SELECT
 FROM 
   marketing_data 
 WHERE 
-  AcceptedCmp5 = 1 -- 162
+  AcceptedCmp5 = 1; -- 162
 
 ```
 Campaign R:
@@ -94,5 +96,13 @@ FROM
   marketing_data 
 WHERE 
   Response = 1 -- 333
+;
+
+SELECT 
+  COUNT(ID) 
+FROM 
+  marketing_data 
+WHERE 
+  Response = 0; -- 1904
 
 ```
