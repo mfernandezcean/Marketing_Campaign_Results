@@ -6,7 +6,7 @@ SELECT
     SUM(NumDealsPurchases) + SUM(NumWebPurchases) + SUM(NumCatalogPurchases) + SUM(NumStorePurchases)
   ) AS totalTransactions 
 FROM 
-  marketing_data ----> 33.241
+  marketing_data; ----> 33.241
 
 ```
 ---
