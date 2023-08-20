@@ -46,3 +46,20 @@ ORDER BY
 ```
 
 ![qwdwdqdwqdqwdwq](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/3102ee94-232a-4e6c-a657-0dd314fbe98b)
+
+---
+
+Cheked how the Complain and the Web Purchades related:
+
+```
+SELECT 
+  Complain, 
+  SUM(NumWebPurchases) AS Number_of_WebPurhcases 
+FROM 
+  marketing_data 
+GROUP BY 
+  Complain;
+
+```
+
+![qwdqwddqwdqwdqw](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/cfc8da03-02f8-4f7d-8f5c-c6828f576c9b)
