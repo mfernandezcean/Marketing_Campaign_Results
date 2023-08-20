@@ -4,7 +4,7 @@
 
 The Analysis can be founded on my [Linkedin](https://www.linkedin.com/in/mfernandezcean/)
 
-This is the repository of the analysis of a Maven Analytics Data set 'Marketingh Campaign'.
+This is the repository of the analysis of a Maven Analytics Data set 'Marketing Campaign'.
 
 Can go to:
 
