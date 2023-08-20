@@ -14,6 +14,8 @@ GROUP BY
 ORDER BY 
   NumWebPurchases;
 ```
+![dqwwdqwdqqwqwd](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/f3bd291a-7079-416e-b787-b21d6a93f95e)
+
 ---
 
 Cheked how the Age and the Web Purchades related:
