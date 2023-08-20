@@ -9,3 +9,14 @@ Can go to:
  - [Analysis](https://github.com/mfernandezcean/Marketing_Campaign_Results/tree/main/Analysis)
  - [Cleaning](https://github.com/mfernandezcean/Marketing_Campaign_Results/tree/main/Cleaning)
  - Excel woorkbook
+
+---
+
+Question of the Challenge:
+
+ 1.  Are there any null values or outliers? How will you handle them?
+ 2.  What factors are significantly related to the number of web purchases?
+ 3.  Which marketing campaign was the most successful?
+ 4.  What does the average customer look like?
+ 5.  Which products are performing best?
+ 6.  Which channels are underperforming?
