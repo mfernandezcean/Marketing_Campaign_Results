@@ -10,7 +10,7 @@ SELECT
   AcceptedCmp5, 
   Response 
 FROM 
-  marketing_data
+  marketing_data;
 ```
 
 ---
