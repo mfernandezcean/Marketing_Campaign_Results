@@ -23,5 +23,5 @@ Question of the Challenge:
  5.  Which products are performing best?
  6.  Which channels are underperforming?
 
----
-Please refer to: [Article Draft](https://www.linkedin.com/post/edit/7097677125255610368/)
+
+
