@@ -10,7 +10,7 @@ Can go to:
 
  - [Analysis](https://github.com/mfernandezcean/Marketing_Campaign_Results/tree/main/Analysis)
  - [Cleaning](https://github.com/mfernandezcean/Marketing_Campaign_Results/tree/main/Cleaning)
- - [Excel Workbook](https://github.com/mfernandezcean/Marketing_Campaign_Results/blob/main/Raw_files/Workbook_Marketing_Campaign.xlsx)
+  - [Excel](https://github.com/mfernandezcean/Marketing_Campaign_Results/blob/main/Raw_files/Workbook_Marketing_Campaign.xlsx)
 
 ---
 
