@@ -11,7 +11,6 @@ FROM
   marketing_data;
 
 ```
-![wqeffwefwewefqwqef](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/06e28f81-b162-4180-a886-83ce9bdf4c6a)
-
+![gwwgrgwear](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/55b89e3b-64f0-48e3-85a7-a3837f0730e8)
 
 
