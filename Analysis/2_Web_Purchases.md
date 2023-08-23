@@ -14,7 +14,7 @@ GROUP BY
 ORDER BY 
   NumWebPurchases;
 ```
-![dqwwdqwdqqwqwd](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/f3bd291a-7079-416e-b787-b21d6a93f95e)
+![erhehrtreth](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/780e6c15-032e-4340-82f4-79bcbe3e52bf)
 
 ---
 
@@ -45,7 +45,7 @@ ORDER BY
 
 ```
 
-![qwdwdqdwqdqwdwq](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/3102ee94-232a-4e6c-a657-0dd314fbe98b)
+![fwqefwweft23w](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/416a8b17-d2ba-4596-9ea4-1d9f0c0f956e)
 
 ---
 
@@ -62,7 +62,7 @@ GROUP BY
 
 ```
 
-![qwdqwddqwdqwdqw](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/cfc8da03-02f8-4f7d-8f5c-c6828f576c9b)
+![ewfgewfefefefwefwewf](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/11fa7362-f6d6-40de-be3a-b2b0b645f7b7)
 
 ---
 
