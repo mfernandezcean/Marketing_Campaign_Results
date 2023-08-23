@@ -12,7 +12,7 @@ GROUP BY
   Education;
 
 ```
-![dwqqwdqwdqwdqwdqwddwq](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/7775fd8a-de44-4511-9b7d-7c45f64a5cee)
+![qwdwdqqwdqddwqqwd](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/ca544f9c-50ef-46da-a135-16a9544def58)
 
 ---
 
@@ -29,7 +29,7 @@ GROUP BY
 
 ```
 
-![wfqfwqfwqfwq](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/ca007cfb-5c8f-4cfd-beef-61168f8e4087)
+![fqwefqwfqwwq](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/256b08f4-1711-4c2b-b552-70dee3d47168)
 
 ---
 
@@ -45,7 +45,7 @@ WHERE
 
 ```
 
-![wdqdqwdwqdwqdwq](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/a1fb8a05-7739-4a2c-8104-30e4a2954e24)
+![qwdwqfwfqfwqwqwq](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/4c7aea16-e338-4bdb-886e-0213961cbc8c)
 
 
-```
+
