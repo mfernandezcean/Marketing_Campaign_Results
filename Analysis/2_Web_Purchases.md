@@ -81,4 +81,4 @@ ORDER BY
 
 ```
 
-![d32d2d32d](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/ebe61d9a-3b4a-4628-8364-1ac727207236)
+![3g4e4weg3w4qe](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/1a9df818-40fd-4496-8530-998d3c2b074a)
