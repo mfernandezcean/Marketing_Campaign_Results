@@ -28,7 +28,7 @@ FROM
   marketing_data;
 
 ```
-![qwdwqddqwdwdqw](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/3214361e-df53-47e6-85fe-2a39020c0f36)
+![wefgegwewgegwewgweg](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/9292aead-0e6d-4fc8-95fe-fb3991b0ec19)
 
 ---
 
