@@ -82,5 +82,3 @@ FROM
   CategorySums;
 
 ```
-
-![dqwwqdwdqwdqwdq](https://github.com/mfernandezcean/Marketing_Campaign_Results/assets/105746149/c7c3338a-ef41-418f-8542-1caeb42df269)
